@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278519970556",
+    "firebase_url": "https://pushnots-e2442.firebaseio.com",
+    "project_id": "pushnots-e2442",
+    "storage_bucket": "pushnots-e2442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278519970556:android:f232b29e02d0122d",
+        "android_client_info": {
+          "package_name": "com.example.hp.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278519970556-ketb8j2g8ak3dcmuqcsk20bg5d3io81q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJt7OB4KQ_-dQ1hYlPVjeEivnmWM5gtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
